@@ -1,0 +1,32 @@
+.tab-pane{
+    border-style: outset;
+    border:1px rgba(red, green, blue, alpha) ;
+border-top: 0ex;
+padding: 1.4rem;
+
+}
+
+.carousel-cards{
+    margin-top: 2rem;
+}
+.carousel-item.active{
+    display: flex ;
+}
+
+
+
+.course-image{
+
+    border-style: outset;
+    border:1px rgba(red, green, blue, alpha) ;  
+}
+.course-image > img{
+width: 100%;
+
+}
+.couse-body{
+
+padding: .3rem;
+
+
+}
